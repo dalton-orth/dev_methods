@@ -85,3 +85,10 @@ strong {
 em {
 	font-style: italic;
 }
+
+/* CUSTOM STYLES */
+
+h1 {
+  color: cyan;
+  font-size: 3rem;
+}
